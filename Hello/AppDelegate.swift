@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Hello
 //
-//  Created by iGuest on 10/1/15.
-//  Copyright (c) 2015 iGuest. All rights reserved.
+//  Created by Bruce Ng on 10/5/15.
+//  Copyright © 2015 Bruce Ng. All rights reserved.
 //
 
 import UIKit

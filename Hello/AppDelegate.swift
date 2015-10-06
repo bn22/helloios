@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Hello
+//  hello
 //
-//  Created by Bruce Ng on 10/5/15.
+//  Created by Bruce Ng on 10/6/15.
 //  Copyright © 2015 Bruce Ng. All rights reserved.
 //
 

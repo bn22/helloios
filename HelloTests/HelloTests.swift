@@ -1,15 +1,15 @@
 //
-//  HelloTests.swift
-//  HelloTests
+//  helloTests.swift
+//  helloTests
 //
-//  Created by Bruce Ng on 10/5/15.
+//  Created by Bruce Ng on 10/6/15.
 //  Copyright © 2015 Bruce Ng. All rights reserved.
 //
 
 import XCTest
-@testable import Hello
+@testable import hello
 
-class HelloTests: XCTestCase {
+class helloTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -1,6 +1,6 @@
 //
-//  helloUITests.swift
-//  helloUITests
+//  HelloUITests.swift
+//  HelloUITests
 //
 //  Created by Bruce Ng on 10/6/15.
 //  Copyright © 2015 Bruce Ng. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class helloUITests: XCTestCase {
+class HelloUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
